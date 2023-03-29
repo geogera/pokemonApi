@@ -1,0 +1,23 @@
+.card{
+    width: 18rem;
+  }
+  .car-img {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+  }
+.card-title {
+    color: #db0075;
+}
+.card-text {
+    color: #17E6E6;
+}
+
+.list-inline-item {
+    color: #9B1B30;
+}
+.container-fluid {
+    /* kanei overwrite to container-fluid to aplo kai einai specific gia to title */
+    padding: 3% 15% 7%;
+    text-align: left;
+  }
